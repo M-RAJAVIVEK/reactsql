@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactsql/static/css/main.36e72db4.css",
-    "main.js": "/reactsql/static/js/main.3cf6348a.js",
+    "main.js": "/reactsql/static/js/main.5e818712.js",
     "static/media/b9.jpeg": "/reactsql/static/media/b9.5dce9053ba3a86a46484.jpeg",
     "static/media/b10.jpeg": "/reactsql/static/media/b10.235ae5aa84302b43805f.jpeg",
     "static/media/a1.jpeg": "/reactsql/static/media/a1.f1adc9c758d0a2394c26.jpeg",
@@ -15,10 +15,10 @@
     "static/media/b7.jpeg": "/reactsql/static/media/b7.a3693346f078295ae6d0.jpeg",
     "index.html": "/reactsql/index.html",
     "main.36e72db4.css.map": "/reactsql/static/css/main.36e72db4.css.map",
-    "main.3cf6348a.js.map": "/reactsql/static/js/main.3cf6348a.js.map"
+    "main.5e818712.js.map": "/reactsql/static/js/main.5e818712.js.map"
   },
   "entrypoints": [
     "static/css/main.36e72db4.css",
-    "static/js/main.3cf6348a.js"
+    "static/js/main.5e818712.js"
   ]
 }
