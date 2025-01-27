@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactsql/static/css/main.36e72db4.css",
+    "main.js": "/reactsql/static/js/main.3cf6348a.js",
+    "static/media/b9.jpeg": "/reactsql/static/media/b9.5dce9053ba3a86a46484.jpeg",
+    "static/media/b10.jpeg": "/reactsql/static/media/b10.235ae5aa84302b43805f.jpeg",
+    "static/media/a1.jpeg": "/reactsql/static/media/a1.f1adc9c758d0a2394c26.jpeg",
+    "static/media/b6.jpeg": "/reactsql/static/media/b6.6990f6eb9b4578f9364b.jpeg",
+    "static/media/b8.jpeg": "/reactsql/static/media/b8.9049d4c3331afe58895d.jpeg",
+    "static/media/b1.jpeg": "/reactsql/static/media/b1.6e3a3529b8e1263b62c6.jpeg",
+    "static/media/b3.jpeg": "/reactsql/static/media/b3.4c4226eb4e7b2dbf4311.jpeg",
+    "static/media/b5.jpeg": "/reactsql/static/media/b5.6028943c7aa9ba6bcc4d.jpeg",
+    "static/media/b2.jpeg": "/reactsql/static/media/b2.5e96741a91465f8bb5a6.jpeg",
+    "static/media/b4.jpeg": "/reactsql/static/media/b4.5a333d04e8e9122b36e3.jpeg",
+    "static/media/b7.jpeg": "/reactsql/static/media/b7.a3693346f078295ae6d0.jpeg",
+    "index.html": "/reactsql/index.html",
+    "main.36e72db4.css.map": "/reactsql/static/css/main.36e72db4.css.map",
+    "main.3cf6348a.js.map": "/reactsql/static/js/main.3cf6348a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36e72db4.css",
+    "static/js/main.3cf6348a.js"
+  ]
+}
