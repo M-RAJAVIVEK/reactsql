@@ -1,25 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
-
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import CreatePost from './CreatePost';
+import EditPost from './EditPost';
+import PostsList from './PostsList';
+import NavigationBar from './Navbar';
+import Home from './Home';
+import Login from './Login';
+import Gallery from './Gallery';
+const App = () => {
+    return (
+        <Router>
+            <div>
+                <NavigationBar />
+                <div className="container">
+                    <h1 className="my-4">Outstanding Coffee Shop</h1>
+                    <Routes>
+                        <Route path="/" element ={<PostsList/>}/>
+                       <Route path='/Create' element={<CreatePost/>}/>
+                       <Route path="/Edit/:id" element={<EditPost/>}/>
+                       <Route path="/Home" element={<Home/>}/>
+                       <Route path="/Login" element={<Login/>}/>
+                       <Route path="/Gallery" element={<Gallery/>}/>
+                       
+                    </Routes>
+                </div>
+            </div>
+        </Router>
+    );
+};
 export default App;
